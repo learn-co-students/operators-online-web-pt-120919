@@ -1,0 +1,17 @@
+# ternary operators
+
+
+- short way of doing if/else statements
+
+
+
+
+?:
+
+
+
+(condition) ? execute logic if condition returns true : execute logic if condition returns false
+
+
+
+condition ? true logic : false logic (if/else)
