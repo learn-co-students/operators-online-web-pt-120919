@@ -1,12 +1,13 @@
-def unsafe?(speed)
+# def unsafe?(speed)
+#
+# end
+#
+#
+#
+# def not_safe?(speed)
+#
+# end
+#
 
-end
-
-
-
-def not_safe?(speed)
+speed > 40 && > 60 ? "unsafe"
 	
-end
-	
-
-
